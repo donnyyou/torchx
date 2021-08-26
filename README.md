@@ -1,5 +1,5 @@
 # TorchX
-TorchX: A PyTorch Extension Library.
+TorchX: A PyTorch Extension Library for More Efficient Deep Learning.
 
 ```
 @misc{torchx,
