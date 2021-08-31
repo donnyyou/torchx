@@ -10,12 +10,8 @@ TorchX: A PyTorch Extension Library for More Efficient Deep Learning.
 }
 ```
 
-### Compute Graph
-
 ### Memory Optimization
 
 ### IO Accelerating
-
-### Network Pruning
 
 ### Communication Compression
